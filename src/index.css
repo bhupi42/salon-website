@@ -1,0 +1,23 @@
+/* ========== Global Reset & Base Styles ========== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1a1a1a;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+.App {
+    width: 100%;
+    overflow-x: hidden;
+}
